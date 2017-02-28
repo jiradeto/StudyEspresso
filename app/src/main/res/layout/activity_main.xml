@@ -37,6 +37,7 @@
         android:hint="Discount %" />
 
     <Button
+        android:id="@+id/bt_main"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
